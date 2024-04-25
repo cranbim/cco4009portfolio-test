@@ -1,1 +1,3 @@
-# cco4009portfolio-test
+# My Creative Coding Portfolio
+
+This is a test of github pages
